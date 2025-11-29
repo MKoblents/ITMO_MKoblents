@@ -5,10 +5,3 @@ public class Main{
         Animal a = new Animal("111111");
     }
 }
-class Animal{
-    String name;
-    Animal(String name){
-        this.name = name;
-        System.out.println("12");
-    }
-}

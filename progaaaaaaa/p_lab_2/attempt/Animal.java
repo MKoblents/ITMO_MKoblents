@@ -1,4 +1,5 @@
 package attempt;
+
 class Animal{
     String name;
     Animal(String name){
