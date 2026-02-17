@@ -1,0 +1,12 @@
+[submodule "history"]
+	path = history
+	url = https://github.com/MKoblents/history
+[submodule "infa"]
+	path = infa
+	url = https://github.com/MKoblents/infa
+[submodule "opd"]
+	path = opd
+	url = https://github.com/MKoblents/opd
+[submodule "progaaaaa"]
+	path = progaaaaa
+	url = https://github.com/MKoblents/progaaaaa
