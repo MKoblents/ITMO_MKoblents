@@ -10,3 +10,6 @@
 [submodule "progaaaaa"]
 	path = progaaaaa
 	url = https://github.com/MKoblents/progaaaaa
+[submodule "data_base"]
+	path = data_base
+	url = https://github.com/MKoblents/data_base
